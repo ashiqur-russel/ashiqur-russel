@@ -22,13 +22,19 @@
         <span><strong>CSS</strong></span><br><br><br>
       </td>
       <td width="25%" align="center">
-        <span><strong>Html 5</strong></span><br><br><br>
+        <span><strong>Bootstrap</strong></span><br><br><br>
       </td>
       <td width="25%" align="center">
         <span><strong>Git</strong></span><br><br><br>
       </td>
       <td width="25%" align="center">
-        <span><strong>Spring Boot</strong></span><br><br><br>
+        <span><strong>Angular</strong></span><br><br><br>
+      </td>
+       <td width="25%" align="center">
+        <span><strong>Azure</strong></span><br><br><br>
+      </td>
+       <td width="25%" align="center">
+        <span><strong>MySQL</strong></span><br><br><br>
       </td>
     </tr>
 
