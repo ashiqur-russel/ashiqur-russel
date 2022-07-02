@@ -16,6 +16,10 @@
       <td width="25%" align="center">
         <span><strong>ReactJs</strong></span><br><br><br>
       </td>
+	    </td>
+       <td width="25%" align="center">
+        <span><strong>MySQL</strong></span><br><br><br>
+      </td>
      </tr>
     <tr valign="top">
       <td width="25%" align="center">
@@ -32,10 +36,7 @@
       </td>
        <td width="25%" align="center">
         <span><strong>Azure</strong></span><br><br><br>
-      </td>
-       <td width="25%" align="center">
-        <span><strong>MySQL</strong></span><br><br><br>
-      </td>
+      
     </tr>
 
   </tbody>
