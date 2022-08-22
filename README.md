@@ -5,10 +5,10 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-	      <span><strong>Java</strong></span><br><br><br>
+	      <span><strong>Typescript</strong></span><br><br><br>
       </td>
       <td width="25%" align="center">
-	      <span><strong>Python</strong></span><br><br><br>
+	      <span><strong>Tailwind</strong></span><br><br><br>
       </td>
       <td width="25%" align="center">
         <span><strong>JavaScript</strong></span><br><br><br>
@@ -26,7 +26,7 @@
         <span><strong>CSS</strong></span><br><br><br>
       </td>
       <td width="25%" align="center">
-        <span><strong>Bootstrap</strong></span><br><br><br>
+        <span><strong>Bootstrap^5</strong></span><br><br><br>
       </td>
       <td width="25%" align="center">
         <span><strong>Git</strong></span><br><br><br>
