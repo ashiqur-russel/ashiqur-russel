@@ -12,8 +12,7 @@
 
 <br/>
 
-<!-- Flexbox layout for GitHub stats with more reduced size -->
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ashiqur-russel&show_icons=true&count_private=true&hide_border=true" style="height: 150px; width: auto;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashiqur-russel&theme=default" style="height: 150px; width: auto;" />
 </div>
