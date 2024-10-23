@@ -17,8 +17,11 @@
 
 <br/>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashiqur-russel&show_icons=true&count_private=true&hide_border=true"  width="45%" height="50%" />
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ashiqur-russel&theme=default" alt="rizwann" width="45%" height="50%" />
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashiqur-russel&show_icons=true&count_private=true&hide_border=true" style="height: 200px; width: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashiqur-russel&theme=default" alt="ashiqur-russel" style="height: 200px; width: auto;" />
+</div>
 
 </div>
 
