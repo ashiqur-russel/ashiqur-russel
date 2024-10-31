@@ -1,4 +1,4 @@
-<h1 align="center">Hi Hey, I'm Mohammad Ashiqur Rahman</h1>
+<h1 align="center">Hey, I'm Mohammad Ashiqur Rahman</h1>
 <div align="center">A Result-Oriented Web Developer building and managing Websites and Web Applications that leads to the success of the overall product</div>  
 <h3 align="center">Welcome to my profile !!</h3>
 
