@@ -1,14 +1,18 @@
 <h1 align="center">Hey, I'm Mohammad Ashiqur Rahman</h1>
-<div align="center">A Result-Oriented Web Developer building and managing Websites and Web Applications that leads to the success of the overall product</div>  
+<div align="center">A Result-Oriented Web Developer building and managing Websites and Web Applications that lead to the success of the overall product</div>
 <h3 align="center">Welcome to my profile !!</h3>
 
-- 🔭 I’m currently working as a Fullstack Developer at bidi Bildung Digital GmbH. [Angular 17, TypeScript, Node.js, Nest.js, Tailwind CSS, Google Cloud Platform]
+- 🔭 I’m currently working as a Fullstack Developer at bidi Bildung Digital GmbH.  
+  [Angular 17, TypeScript, Node.js, Nest.js, Tailwind CSS, Google Cloud Platform]
 
-- 🌱 I am learning DevOps, Advanced Next.js, and Micro-Frontend!!
+- 🌱 I am learning DevOps, Advanced Next.js, and Micro-Frontend.  
+  - Recently diving into containerization (Docker), pushing images to Docker Hub,  
+    creating AWS EC2 instances, hosting WebSockets on AWS, and exploring React component testing.
 
-- 📫 How to reach me: rahman.tuc@gmail.com
+- ❓ Ask me anything related to the MERN and MEAN stacks, or about the technologies I’m currently learning.
 
-- ❓ Ask me about anything related to MERN and MEAN stack and related technologies.  
+- 📫 How to reach me: <strong>rahman.tuc@gmail.com</strong>
+
 
 <br/>
 
