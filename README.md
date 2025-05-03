@@ -1,7 +1,5 @@
 <h1 align="center">Hey, I'm Mohammad Ashiqur Rahman</h1>
 
-
-##  About Me:
 <h4 align="justify">I’m a full-stack engineer who transforms ideas into complete, innovative digital experiences. I bring expertise in developing efficient, responsive, and user-friendly applications tailored to meet dynamic business requirements. I hold a Master’s degree in Automotive Software Engineering and have a strong foundation in Computer Science and Engineering. With a background in software engineering and a passion for web development, I blend technical precision with creative storytelling to build solutions that are both robust and engaging</h4>
 
 ## 💻 Tech Stack
