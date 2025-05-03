@@ -36,16 +36,16 @@
 ![Agile](https://img.shields.io/badge/agile-%23007ACC.svg?style=for-the-badge&logo=agile&logoColor=white)
 
 
-
 <ul>
-  <li>🔭 I’m currently working and polishing my knowldge with Angular,  React.js, Next.Js, TypeScript, and NestJS to build scalable and user-friendly applications.</li>
-  <li>👯 I’m looking to collaborate on innovative projects, open-source contributions, and building tools that improve developer productivity. </li>
-  <li> 🤝 I’m looking for help with exploring advanced backend optimizations, and microservices architecture and Microfrontend technologies</li>
-  <li>🌱 I’m currently learning DevOps related technologies, Advanced Next.js and Microfrontend Technologies. I believe every day is an opportunity to grow!</li>
-  <li>💬 Ask me about React.js, Angular, API development, Typescript, Javascript, performance optimization, or mobile-first design principles.</li> 
-  <li>📫 How to reach me: You can connect with me on <a href="https://www.linkedin.com/in/ashiq-dev/" target="_blank">LinkedIn</a>  or drop me an email anytime <a href="mailto:rahman.tuc@gmail.com">rahman.tuc@gmail.com</a></li> 
-  <li>⚡ Fun fact: I’m a curious traveller, I love Hiking and a sports enthusiast! I love Football, Cricket, Table Tennis and Badminton. I also enjoy brainstorming ideas, problem-solving, and mentoring budding developers.</li>
-</ul> 
+  <li>🔭 I’m currently working and polishing my knowledge with Angular, React.js, Next.js, TypeScript, and NestJS to build scalable and user-friendly applications.</li>
+  <li>👯 I’m looking to collaborate on innovative projects, open-source contributions, and building tools that improve developer productivity.</li>
+  <li>🤝 I’m looking for help with exploring advanced backend optimizations, microservices architecture, and Microfrontend technologies.</li>
+  <li>🌱 I’m currently learning DevOps-related technologies, Advanced Next.js, and Microfrontend technologies. I believe every day is an opportunity to grow!</li>
+  <li>💬 Ask me about React.js, Angular, API development, TypeScript, JavaScript, performance optimization, or mobile-first design principles.</li>
+  <li>📫 How to reach me: You can connect with me on <a href="https://www.linkedin.com/in/ashiq-dev/" target="_blank">LinkedIn</a> or drop me an email anytime at <a href="mailto:rahman.tuc@gmail.com">rahman.tuc@gmail.com</a>.</li>
+  <li>⚡ Fun fact: I’m a curious traveller, love hiking, and am a sports enthusiast! I enjoy Football, Cricket, Table Tennis, and Badminton, as well as brainstorming ideas, problem-solving, and mentoring budding developers.</li>
+</ul>
+
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ashiqur-russel&show_icons=true&count_private=true&hide_border=true" style="height: 150px; width: auto;" />
