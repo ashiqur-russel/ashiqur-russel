@@ -1,10 +1,8 @@
-<h1 align="center">Mohammad Ashiqur Rahman</h1>
+# Mohammad Ashiqur Rahman
 
-<h3 align="center">Full-Stack Engineer | Building Scalable Platforms</h3>
+### Full-Stack Engineer | Building Scalable Platforms
 
-<p align="center">
-I'm a Full-Stack Developer at <a href="https://amuvee.de" target="_blank">AFQ I Service gGmbh</a>, leading the development of scalable platforms from frontend to backend. With a Master's in Automotive Software Engineering and expertise across the full stack, I architect and optimize digital solutions that serve thousands of users.
-</p>
+I'm a Full-Stack Developer at [AFQ I Service gGmbh](https://amuvee.de), leading the development of scalable platforms from frontend to backend. With a Master's in Automotive Software Engineering and expertise across the full stack, I architect and optimize digital solutions that serve thousands of users.
 
 ---
 
