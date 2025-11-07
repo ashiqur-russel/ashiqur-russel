@@ -35,9 +35,3 @@ Open to collaborating on innovative projects and discussing modern web architect
 
 **Reach me:** [LinkedIn](https://www.linkedin.com/in/ashiq-dev/) • [rahman.tuc@gmail.com](mailto:rahman.tuc@gmail.com)
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashiqur-russel&show_icons=true&count_private=true&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashiqur-russel&theme=default&hide_border=true" height="165" />
-</div>
